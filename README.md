@@ -6,6 +6,7 @@
 - multiple variable names as a list
 - multiple variable names and their values as a dictionary
 
+Python's code: https://github.com/Edamas/PYTHON_get_variable_name/blob/main/get_variable_name_and_values.py
 ---------------------------------------------------------
 
 ### 1 How to get a variable name as a string
